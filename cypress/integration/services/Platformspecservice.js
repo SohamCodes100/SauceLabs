@@ -8,6 +8,7 @@ class Plaformspec{
         PlatformT.clickOnPlatform001()
         PlatformT.clickOnBrowser()
         PlatformT.clickOnPlatformconfig()
+        
         PlatformT.clickOnDropdown()
         
     }
